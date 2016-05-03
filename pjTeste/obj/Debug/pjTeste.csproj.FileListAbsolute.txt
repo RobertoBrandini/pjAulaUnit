@@ -1,0 +1,8 @@
+D:\VS\pjAula\pjTeste\bin\Debug\pjTeste.dll
+D:\VS\pjAula\pjTeste\bin\Debug\pjTeste.pdb
+D:\VS\pjAula\pjTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VS\pjAula\pjTeste\bin\Debug\Negocio.dll
+D:\VS\pjAula\pjTeste\bin\Debug\Negocio.pdb
+D:\VS\pjAula\pjTeste\obj\Debug\pjTeste.csprojResolveAssemblyReference.cache
+D:\VS\pjAula\pjTeste\obj\Debug\pjTeste.dll
+D:\VS\pjAula\pjTeste\obj\Debug\pjTeste.pdb

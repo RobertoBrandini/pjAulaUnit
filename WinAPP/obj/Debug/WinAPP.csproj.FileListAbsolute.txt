@@ -1,0 +1,11 @@
+D:\VS\pjAula\WinAPP\bin\Debug\WinAPP.exe.config
+D:\VS\pjAula\WinAPP\bin\Debug\WinAPP.exe
+D:\VS\pjAula\WinAPP\bin\Debug\WinAPP.pdb
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.csprojResolveAssemblyReference.cache
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.Form1.resources
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.Properties.Resources.resources
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.csproj.GenerateResource.Cache
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.exe
+D:\VS\pjAula\WinAPP\obj\Debug\WinAPP.pdb
+D:\VS\pjAula\WinAPP\bin\Debug\Negocio.dll
+D:\VS\pjAula\WinAPP\bin\Debug\Negocio.pdb

@@ -1,0 +1,5 @@
+D:\VS\pjAula\Negocio\bin\Debug\Negocio.dll
+D:\VS\pjAula\Negocio\bin\Debug\Negocio.pdb
+D:\VS\pjAula\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\VS\pjAula\Negocio\obj\Debug\Negocio.dll
+D:\VS\pjAula\Negocio\obj\Debug\Negocio.pdb
