@@ -16,7 +16,7 @@ namespace Negocio
 
         public static Decimal AumentoSalario(Decimal SalarioAtual)
         {
-            return SalarioAtual * (1.15m);
+            return SalarioAtual * (1.20m);
         }
 
     }
